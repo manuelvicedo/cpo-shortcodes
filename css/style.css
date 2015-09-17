@@ -516,8 +516,7 @@ body .ctsc-dark a:hover { color:#fff; }
 @media only screen and (max-width:600px){
 	
 	/* COLUMNS */
-	.ctsc-column { float:none; width:auto; margin:0; }
-	.ctsc-column.ctsc-column-narrow, .ctsc-column.ctsc-column-fit { float: none; width: auto; margin: 0;}
+	.ctsc-column, .ctsc-column.ctsc-column-narrow, .ctsc-column.ctsc-column-fit { float: none; width: auto; margin: 0;}
 	
 	/* TABBED CONTENT */
 	.ctsc-tablist .ctsc-tablist-nav { float:none; width:auto; margin:0; padding:0 5px; }
